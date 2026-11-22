@@ -1,33 +1,30 @@
-# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
+### Project Title: 
+  Wonderland-Reverie
+  
+### Section:
+  9 - Strontium
+### Group Members:
+- CORTEZ, Prinx Savier
+- LABUGUEN, Eosef Jansen
+- MERCADO, Raian Lawrence
 
+### Date: 
+  November 20, 2026                   
+  
+# Project Description:
+- Our project is a text-based roleplay game and is created for the sake of entertainment. 
+- The game will feature a storyline with dialogues and fights.
+- The story is about two childhood friends, a celebrity and a programmer. They are both in a coma or a state of “reverie”.
+- In this game, you have to play as one of the childhood friends and try to get three “memories” to get out of their coma.
+- Each character has their own powers that they can use to help gain memories.
+- To read more, click [here](https://docs.google.com/document/d/1NYE7qHSMamlV-Utr1F5OdrEPMr8Dcmn8EP6SwybAcIE/edit?usp=sharing)
 
-## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
-### Project Description:
+<img width="472" height="543" alt="image" src="https://github.com/user-attachments/assets/90d9aa04-fa98-4825-8964-8df5973cd425" />
 
-- A brief summary of the project description and the need for it.
-
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
-
-- Include the description as well of your target demographics as the user of your application. 
-
-- The description is then followed by the class diagram, depicting clearly what was described.
-
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
-
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
-
-### Goals:
-
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
-
-- Objective 1:
-- Objective 2:
-- Objective n:
-
-[Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
+# Objectives:
+- Make a text to map converter
+- Be able to translate emotions into code
+   - Make customizable classes that accept a wide variety of arguments to add a humane touch
+   - Add variety of the inputs into the variety of arguments to showcase different attributes that fit their lore
+- Make a storyline that is entertaining, non-stereotypical, grounded but emotional
+- Make sure the game actually works; test and debug the game
