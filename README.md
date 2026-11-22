@@ -1,4 +1,4 @@
-### Project Title: 
+# Project Title: 
   Wonderland-Reverie
   
 ### Section:
@@ -11,7 +11,7 @@
 ### Date: 
   November 20, 2026                   
   
-# Project Description:
+## Project Description:
 - Our project is a text-based roleplay game and is created for the sake of entertainment. 
 - The game will feature a storyline with dialogues and fights.
 - The story is about two childhood friends, a celebrity and a programmer. They are both in a coma or a state of “reverie”.
@@ -21,7 +21,7 @@
 
 <img width="472" height="543" alt="image" src="https://github.com/user-attachments/assets/90d9aa04-fa98-4825-8964-8df5973cd425" />
 
-# Objectives:
+## Objectives:
 - Make a text to map converter
 - Be able to translate emotions into code
    - Make customizable classes that accept a wide variety of arguments to add a humane touch
